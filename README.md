@@ -1,5 +1,4 @@
-```markdown
-# Email Validation with MX Record Lookup
+### Email Validation with MX Record Lookup
 
 This project provides a Python utility to validate email addresses, checking both the format and domain deliverability using MX record lookups. The script can be integrated into Django applications and uses both Django's built-in validators and external libraries for domain validation.
 
