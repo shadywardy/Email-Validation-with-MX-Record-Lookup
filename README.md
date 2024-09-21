@@ -95,3 +95,9 @@ Feel free to fork this repository and submit pull requests for improvements or a
 
 This project is licensed under the MIT License.
 
+### Key Points in the README:
+- **Dependencies**: You mention the main dependencies and how to install them, including `dnspython` from a GitHub repository.
+- **Functionality**: The script checks both email format and domain validity.
+- **Example**: Shows how to run and use the script, including sample input and output.
+
+
